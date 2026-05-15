@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Ahuja</h1>
-<h3 align="center">CS & AI Student at Purdue University · Researcher · Builder</h3>
+<h3 align="center">CS & Statistics Student at Purdue University · Researcher · Builder</h3>
 
 ---
 
