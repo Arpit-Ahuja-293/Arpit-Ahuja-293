@@ -3,7 +3,7 @@
 
 ---
 
-## 🧑 About Me
+##  About Me
 
 - 🎓 Studying **Computer Science & Statistics** at **Purdue University** (Class of 2030)
 - 🔬 LLM Researcher at **UC Berkeley** — paper accepted to **ICLR 2026**
@@ -13,31 +13,31 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-**🤖 [Jarvis](https://github.com/iamarpitahuja/Jarvis)**
+** [Jarvis](https://github.com/iamarpitahuja/Jarvis)**
 - Voice-controlled Python daemon with wake-word detection and Groq AI (Llama 3.3 70B) routing
 - Launches apps, composes Gmail drafts, sends Discord messages, and renders a live Matrix dashboard
 - Built with Python, Vosk STT, ElevenLabs TTS, Tkinter
 
-**🌿 [Twinly]**
+** [Twinly]**
 - AI-driven full-stack web app with **2,000+ waitlisted users**
 - ML models integrated into production with optimized backend data pipelines
 - Built with Python, Next.js, Node.js, PyTorch, PostgreSQL
 
-**🤖 [VEX Echo Library](https://github.com/iamarpitahuja/echo-library)**
+** [VEX Echo Library](https://github.com/iamarpitahuja/echo-library)**
 - Custom PID, Motion Profiling, and Odometry algorithms for VEX robotics competition
 - **Think Award winner at the 2025 VEX World Championship** — open-sourced, used by **80+ teams worldwide**
 - Built with C++, C
 
-**🌍 [Ecoquest](https://github.com/iamarpitahuja/ecoquest)**
+** [Ecoquest](https://github.com/iamarpitahuja/ecoquest)**
 - Full-stack sustainability platform with **300 users**, real-time cleanup map, and carbon tracker
 - RAG-based chatbot powered by LangChain, Gemini API, and custom search
 - Built with Python, FastAPI, React, Supabase, Docker, Mapbox GL
 
 ---
 
-## 💡 Skills
+##  Skills
 
 - **AI/ML** — LLM evaluation, prompt engineering, computer vision, moral reasoning frameworks
 - **Full-Stack Development** — REST APIs, real-time applications, database optimization
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌐 Socials:
+##  Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-ahuja08/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arpit_ahuja01/)
@@ -54,7 +54,7 @@
 
 ---
 
-## 💻 Tech Stack:
+##  Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamarpitahuja&theme=dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
