@@ -15,7 +15,7 @@
 
 ##  Projects
 
-** [Jarvis](https://github.com/iamarpitahuja/Jarvis)**
+** [Jarvis](https://github.com/Arpit-Ahuja-293/Jarvis)**
 - Voice-controlled Python daemon with wake-word detection and Groq AI (Llama 3.3 70B) routing
 - Launches apps, composes Gmail drafts, sends Discord messages, and renders a live Matrix dashboard
 - Built with Python, Vosk STT, ElevenLabs TTS, Tkinter
@@ -25,12 +25,12 @@
 - ML models integrated into production with optimized backend data pipelines
 - Built with Python, Next.js, Node.js, PyTorch, PostgreSQL
 
-** [VEX Echo Library](https://github.com/iamarpitahuja/echo-library)**
+** [VEX Echo Library](https://github.com/Arpit-Ahuja-293/echo-library)**
 - Custom PID, Motion Profiling, and Odometry algorithms for VEX robotics competition
 - **Think Award winner at the 2025 VEX World Championship** — open-sourced
 - Built with C++, C
 
-** [Ecoquest](https://github.com/iamarpitahuja/ecoquest)**
+** [Ecoquest](https://github.com/Arpit-Ahuja-293/ecoquest)**
 - Full-stack sustainability platform with **300 users**, real-time cleanup map, and carbon tracker
 - RAG-based chatbot powered by LangChain, Gemini API, and custom search
 - Built with Python, FastAPI, React, Supabase, Docker, Mapbox GL
@@ -75,10 +75,10 @@
 
 ##  GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamarpitahuja&theme=dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arpit-Ahuja-293&theme=dark&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamarpitahuja/iamarpitahuja/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamarpitahuja/iamarpitahuja/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamarpitahuja/iamarpitahuja/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpit-Ahuja-293/Arpit-Ahuja-293/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpit-Ahuja-293/Arpit-Ahuja-293/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arpit-Ahuja-293/Arpit-Ahuja-293/output/github-contribution-grid-snake-dark.svg">
 </picture>
