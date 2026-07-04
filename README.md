@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20ARPIT%20AHUJA&fontSize=38&fontAlignY=40&desc=CS%20%26%20Stats%20@%20Purdue%20%E2%80%A2%20LLM%20Researcher%20%E2%80%A2%20Founding%20Engineer%20%E2%80%A2%20Robotics&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20ARPIT%20AHUJA&fontSize=38&fontAlignY=40&desc=CS%20%2B%20Stats%20@%20Purdue%20%E2%80%A2%20LLM%20Researcher%20%E2%80%A2%20Founding%20Engineer%20%E2%80%A2%20Robotics&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/Arpit-Ahuja-293">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CS+%26+Statistics%2C+Purdue+University+(2030);%24+grep+-r+%22research%22+%E2%86%92+LLM+Eval+%40+UC+Berkeley+%E2%80%94+ICLR+2026;%24+cat+startup.txt+%E2%86%92+Founding+Eng+%40+Luminerra+(NVIDIA+Inception);%24+ls+%2Frobotics+%E2%86%92+VEX+World+Champs+Think+Award;%24+ship+--projects+%E2%86%92+Jarvis+%7C+Twinly+%7C+Ecoquest" alt="typing" />
