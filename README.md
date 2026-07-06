@@ -20,7 +20,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Arpit-Ahuja-293&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="views" />
+<img src="https://arpit293842.goatcounter.com/counter/TOTAL.svg?style=flat-square" alt="views" />
+<img width="0" height="0" src="https://arpit293842.goatcounter.com/count?p=/readme" alt="" />
 <img src="https://img.shields.io/github/followers/Arpit-Ahuja-293?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />
 <img src="https://img.shields.io/github/stars/Arpit-Ahuja-293?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" />
 
