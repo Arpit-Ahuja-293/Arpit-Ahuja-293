@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://arpit293842.goatcounter.com/counter/TOTAL.svg?style=flat-square" alt="views" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Farpit293842.goatcounter.com%2Fcounter%2FTOTAL.json&query=%24.count&label=Profile+Views&style=flat-square&color=CAFF3C&labelColor=060D08" alt="views" />
 <img width="0" height="0" src="https://arpit293842.goatcounter.com/count?p=/readme" alt="" />
 <img src="https://img.shields.io/github/followers/Arpit-Ahuja-293?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />
 <img src="https://img.shields.io/github/stars/Arpit-Ahuja-293?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" />
