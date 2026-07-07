@@ -1,29 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20ARPIT%20AHUJA&fontSize=38&fontAlignY=40&desc=CS%20%2B%20Stats%20@%20Purdue%20%E2%80%A2%20LLM%20Researcher%20%E2%80%A2%20Founding%20Engineer%20%E2%80%A2%20Robotics&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=shark&height=220&color=e9f5db&fontColor=1F7A2E&text=%3E_%20ARPIT%20AHUJA&fontSize=38&fontAlignY=40&desc=CS%20%2B%20Stats%20@%20Purdue%20%E2%80%A2%20LLM%20Researcher%20%E2%80%A2%20Founding%20Engineer%20%E2%80%A2%20Robotics&descSize=15&descColor=2E7D32&descAlignY=63&animation=fadeIn">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20ARPIT%20AHUJA&fontSize=38&fontAlignY=40&desc=CS%20%2B%20Stats%20@%20Purdue%20%E2%80%A2%20LLM%20Researcher%20%E2%80%A2%20Founding%20Engineer%20%E2%80%A2%20Robotics&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
+</picture>
 
 <a href="https://github.com/Arpit-Ahuja-293">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CS+%26+Statistics%2C+Purdue+University+(2030);%24+grep+-r+%22research%22+%E2%86%92+LLM+Eval+%40+UC+Berkeley+%E2%80%94+ICLR+2026;%24+cat+startup.txt+%E2%86%92+Founding+Eng+%40+Luminerra+(NVIDIA+Inception);%24+ls+%2Frobotics+%E2%86%92+VEX+World+Champs+Think+Award;%24+ship+--projects+%E2%86%92+Jarvis+%7C+Twinly+%7C+Ecoquest" alt="typing" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=1F7A2E&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CS+%26+Statistics%2C+Purdue+University+(2030);%24+grep+-r+%22research%22+%E2%86%92+LLM+Eval+%40+UC+Berkeley+%E2%80%94+ICLR+2026;%24+cat+startup.txt+%E2%86%92+Founding+Eng+%40+Luminerra+(NVIDIA+Inception);%24+ls+%2Frobotics+%E2%86%92+VEX+World+Champs+Think+Award;%24+ship+--projects+%E2%86%92+Jarvis+%7C+Twinly+%7C+Ecoquest">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CS+%26+Statistics%2C+Purdue+University+(2030);%24+grep+-r+%22research%22+%E2%86%92+LLM+Eval+%40+UC+Berkeley+%E2%80%94+ICLR+2026;%24+cat+startup.txt+%E2%86%92+Founding+Eng+%40+Luminerra+(NVIDIA+Inception);%24+ls+%2Frobotics+%E2%86%92+VEX+World+Champs+Think+Award;%24+ship+--projects+%E2%86%92+Jarvis+%7C+Twinly+%7C+Ecoquest" alt="typing" />
+  </picture>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.S.%20Computer%20Science%20%26%20Statistics-Purdue%20University-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C" alt="degree" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_West%20Lafayette%2C%20IN-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/B.S.%20Computer%20Science%20%26%20Statistics-Purdue%20University-1F7A2E?style=flat-square&labelColor=EAF4E1&color=D7E8C8&logo=graduation-cap&logoColor=1F7A2E">
+  <img src="https://img.shields.io/badge/B.S.%20Computer%20Science%20%26%20Statistics-Purdue%20University-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=graduation-cap&logoColor=CAFF3C" alt="degree" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%93%8D_West%20Lafayette%2C%20IN-D7E8C8?style=flat-square&labelColor=EAF4E1&logoColor=1F7A2E">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_West%20Lafayette%2C%20IN-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
+</picture>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/arpit-ahuja08/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
-<a href="https://www.instagram.com/arpit_ahuja01/"><img src="https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></a>
-<a href="https://www.youtube.com/@ArpitAhujaCodes"><img src="https://img.shields.io/badge/YouTube-CAFF3C?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=060D08" alt="youtube" /></a>
-<a href="https://github.com/Arpit-Ahuja-293"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<a href="https://www.linkedin.com/in/arpit-ahuja08/"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-1F7A2E?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=1B3D1B"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></picture></a>
+<a href="https://www.instagram.com/arpit_ahuja01/"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-1F7A2E?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=1B3D1B"><img src="https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></picture></a>
+<a href="https://www.youtube.com/@ArpitAhujaCodes"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-1F7A2E?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=1B3D1B"><img src="https://img.shields.io/badge/YouTube-CAFF3C?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=060D08" alt="youtube" /></picture></a>
+<a href="https://github.com/Arpit-Ahuja-293"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-1F7A2E?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1B3D1B"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></picture></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Farpit293842.goatcounter.com%2Fcounter%2FTOTAL.json&query=%24.count&label=Profile+Views&style=flat-square&color=CAFF3C&labelColor=060D08" alt="views" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Farpit293842.goatcounter.com%2Fcounter%2FTOTAL.json&query=%24.count&label=Profile+Views&style=flat-square&color=1F7A2E&labelColor=EAF4E1">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Farpit293842.goatcounter.com%2Fcounter%2FTOTAL.json&query=%24.count&label=Profile+Views&style=flat-square&color=CAFF3C&labelColor=060D08" alt="views" />
+</picture>
 <img width="0" height="0" src="https://arpit293842.goatcounter.com/count?p=/readme" alt="" />
-<img src="https://img.shields.io/github/followers/Arpit-Ahuja-293?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />
-<img src="https://img.shields.io/github/stars/Arpit-Ahuja-293?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Arpit-Ahuja-293?style=flat-square&color=1F7A2E&labelColor=EAF4E1&logo=github&logoColor=1F7A2E&label=Followers">
+  <img src="https://img.shields.io/github/followers/Arpit-Ahuja-293?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/Arpit-Ahuja-293?style=flat-square&color=1F7A2E&labelColor=EAF4E1&logo=github&logoColor=1F7A2E&label=Stars">
+  <img src="https://img.shields.io/github/stars/Arpit-Ahuja-293?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" />
+</picture>
 
 </div>
 
@@ -55,19 +76,31 @@ OPEN_TO     =  AI/ML Research + Full-Stack Internships
 
 **[ Languages ]**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark" alt="languages" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark" alt="languages" />
+</picture>
 
 **[ Frontend ]**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="frontend" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="frontend" />
+</picture>
 
 **[ Backend & Data ]**
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,firebase&theme=dark" alt="backend" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,firebase&theme=light">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,firebase&theme=dark" alt="backend" />
+</picture>
 
 **[ AI/ML, Cloud & Infra ]**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,supabase&theme=dark" alt="ai-infra" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,supabase&theme=light">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,supabase&theme=dark" alt="ai-infra" />
+</picture>
 
 </div>
 
@@ -206,7 +239,10 @@ Exoskeleton gait training research for stroke rehabilitation patients.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.S.%20Computer%20Science%20%26%20Statistics-Purdue%20University-CAFF3C?style=for-the-badge&logo=academia&logoColor=000000&labelColor=060D08" alt="education" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/B.S.%20Computer%20Science%20%26%20Statistics-Purdue%20University-1F7A2E?style=for-the-badge&logo=academia&logoColor=FFFFFF&labelColor=1B3D1B">
+  <img src="https://img.shields.io/badge/B.S.%20Computer%20Science%20%26%20Statistics-Purdue%20University-CAFF3C?style=for-the-badge&logo=academia&logoColor=000000&labelColor=060D08" alt="education" />
+</picture>
 
 </div>
 
@@ -216,12 +252,21 @@ Exoskeleton gait training research for stroke rehabilitation patients.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpit-Ahuja-293&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-Ahuja-293&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Arpit-Ahuja-293&show_icons=true&count_private=true&hide_border=true&title_color=1F7A2E&icon_color=43A047&text_color=1B3D1B&bg_color=E9F5DB">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arpit-Ahuja-293&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" alt="stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-Ahuja-293&hide_border=true&background=E9F5DB&stroke=1F7A2E&ring=43A047&fire=1F7A2E&currStreakLabel=1F7A2E&sideLabels=43A047&dates=43A047&currStreakNum=1B3D1B&sideNums=1B3D1B">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-Ahuja-293&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
+</picture>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Ahuja-293&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" alt="top-langs" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Ahuja-293&layout=compact&hide_border=true&langs_count=8&title_color=1F7A2E&text_color=1B3D1B&bg_color=E9F5DB">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Ahuja-293&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" alt="top-langs" />
+</picture>
 
 </div>
 
@@ -231,7 +276,10 @@ Exoskeleton gait training research for stroke rehabilitation patients.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arpit-Ahuja-293&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Arpit-Ahuja-293&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arpit-Ahuja-293&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+</picture>
 
 </div>
 
@@ -241,7 +289,10 @@ Exoskeleton gait training research for stroke rehabilitation patients.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit-Ahuja-293&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Arpit-Ahuja-293&bg_color=E9F5DB&color=1F7A2E&line=43A047&point=1F7A2E&area=true&area_color=C8E6C9&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit-Ahuja-293&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
+</picture>
 
 </div>
 
@@ -251,17 +302,32 @@ Exoskeleton gait training research for stroke rehabilitation patients.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arpit-Ahuja-293&theme=2077" width="100%" alt="profile-details" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arpit-Ahuja-293&theme=github_light">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arpit-Ahuja-293&theme=2077" width="100%" alt="profile-details" />
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arpit-Ahuja-293&theme=2077" alt="repos-per-language" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arpit-Ahuja-293&theme=2077" alt="most-commit-language" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arpit-Ahuja-293&theme=github_light">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arpit-Ahuja-293&theme=2077" alt="repos-per-language" />
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arpit-Ahuja-293&theme=github_light">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arpit-Ahuja-293&theme=2077" alt="most-commit-language" />
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arpit-Ahuja-293&theme=2077" alt="stats-card" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arpit-Ahuja-293&theme=2077&utcOffset=-5" alt="productive-time" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arpit-Ahuja-293&theme=github_light">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arpit-Ahuja-293&theme=2077" alt="stats-card" />
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arpit-Ahuja-293&theme=github_light&utcOffset=-5">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arpit-Ahuja-293&theme=2077&utcOffset=-5" alt="productive-time" />
+</picture>
 
 </div>
 
@@ -310,10 +376,10 @@ open_to:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arpit-ahuja08/"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></a>
-<a href="https://www.instagram.com/arpit_ahuja01/"><img src="https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></a>
-<a href="https://www.youtube.com/@ArpitAhujaCodes"><img src="https://img.shields.io/badge/YouTube-CAFF3C?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=060D08" alt="youtube" /></a>
-<a href="https://github.com/Arpit-Ahuja-293"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<a href="https://www.linkedin.com/in/arpit-ahuja08/"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-1F7A2E?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=1B3D1B"><img src="https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=060D08" alt="linkedin" /></picture></a>
+<a href="https://www.instagram.com/arpit_ahuja01/"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Instagram-1F7A2E?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=1B3D1B"><img src="https://img.shields.io/badge/Instagram-CAFF3C?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=060D08" alt="instagram" /></picture></a>
+<a href="https://www.youtube.com/@ArpitAhujaCodes"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-1F7A2E?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=1B3D1B"><img src="https://img.shields.io/badge/YouTube-CAFF3C?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=060D08" alt="youtube" /></picture></a>
+<a href="https://github.com/Arpit-Ahuja-293"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-1F7A2E?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1B3D1B"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></picture></a>
 
 </div>
 
@@ -325,6 +391,9 @@ open_to:
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=e9f5db&fontColor=1F7A2E">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
+</picture>
 
 </div>
