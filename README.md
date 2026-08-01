@@ -31,11 +31,6 @@
 <a href="https://github.com/Arpit-Ahuja-293"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-1F7A2E?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=1B3D1B"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></picture></a>
 
 <br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Farpit293842.goatcounter.com%2Fcounter%2FTOTAL.json&query=%24.count&label=Profile+Views&style=flat-square&color=1F7A2E&labelColor=EAF4E1">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Farpit293842.goatcounter.com%2Fcounter%2FTOTAL.json&query=%24.count&label=Profile+Views&style=flat-square&color=CAFF3C&labelColor=060D08" alt="views" />
-</picture>
 <img width="0" height="0" src="https://arpit293842.goatcounter.com/count?p=/readme" alt="" />
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Arpit-Ahuja-293?style=flat-square&color=1F7A2E&labelColor=EAF4E1&logo=github&logoColor=1F7A2E&label=Followers">
