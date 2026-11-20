@@ -8,7 +8,7 @@
 <a href="https://github.com/Arpit-Ahuja-293">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=1F7A2E&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CS+%26+Statistics%2C+Purdue+University+(2029);%24+grep+-r+%22research%22+%E2%86%92+LLM+Eval+%40+UC+Berkeley+%E2%80%94+ICLR+2026;%24+cat+startup.txt+%E2%86%92+Founding+Eng+%40+Luminerra+(NVIDIA+Inception);%24+ls+%2Frobotics+%E2%86%92+VEX+World+Champs+Think+Award;%24+ship+--projects+%E2%86%92+Jarvis+%7C+Twinly+%7C+Ecoquest">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CS+%26+Statistics%2C+Purdue+University+(2030);%24+grep+-r+%22research%22+%E2%86%92+LLM+Eval+%40+UC+Berkeley+%E2%80%94+ICLR+2026;%24+cat+startup.txt+%E2%86%92+Founding+Eng+%40+Luminerra+(NVIDIA+Inception);%24+ls+%2Frobotics+%E2%86%92+VEX+World+Champs+Think+Award;%24+ship+--projects+%E2%86%92+Jarvis+%7C+Twinly+%7C+Ecoquest" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CS+%26+Statistics%2C+Purdue+University+(2029);%24+grep+-r+%22research%22+%E2%86%92+LLM+Eval+%40+UC+Berkeley+%E2%80%94+ICLR+2026;%24+cat+startup.txt+%E2%86%92+Founding+Eng+%40+Luminerra+(NVIDIA+Inception);%24+ls+%2Frobotics+%E2%86%92+VEX+World+Champs+Think+Award;%24+ship+--projects+%E2%86%92+Jarvis+%7C+Twinly+%7C+Ecoquest" alt="typing" />
   </picture>
 </a>
 
